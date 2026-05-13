@@ -494,6 +494,15 @@ h4 {
   white-space: nowrap;
 }
 
+.news-item-list {
+  margin: 0.35rem 0 0;
+  padding-left: 1.25rem;
+}
+
+.news-item-list li + li {
+  margin-top: 0.3rem;
+}
+
 .publications {
   margin-top: 2rem;
 }
